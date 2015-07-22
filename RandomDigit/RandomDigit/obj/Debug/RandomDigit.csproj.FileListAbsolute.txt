@@ -1,0 +1,9 @@
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\bin\Debug\RandomDigit.exe.config
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\bin\Debug\RandomDigit.exe
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\bin\Debug\RandomDigit.pdb
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\obj\Debug\RandomDigit.csprojResolveAssemblyReference.cache
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\obj\Debug\RandomDigit.Form1.resources
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\obj\Debug\RandomDigit.Properties.Resources.resources
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\obj\Debug\RandomDigit.csproj.GenerateResource.Cache
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\obj\Debug\RandomDigit.exe
+C:\Users\polakowd\Documents\Visual Studio 2012\Projects\RandomDigit\RandomDigit\obj\Debug\RandomDigit.pdb
